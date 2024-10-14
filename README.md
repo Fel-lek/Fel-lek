@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fel-lek
-- 👀 I’m interested in games, AI and server programming
-- 🌱 I’m currently learning everything 🤯
+- 👀 I’m interested in Computer Graphics, Games and Networking
+- 🌱 I’m currently learning OpenGL via Silk.NET 🤯
 <!---//- 📫 You can reach me via email--->
 
 <!---
